@@ -1,0 +1,22 @@
+{
+	"course":{
+		"hard_skills": {
+			"1": "testing_practice",
+			"2": "terminal_Linux",
+   			"3": "git_hub",
+   			"4": "sql",
+   			"5": "postman",
+			"6": "json",
+   			"7": "xml",
+   			"8": "dev_tools",
+			"9": "english_language"
+		},
+		"soft_skills": {
+			"1": "responsibility",
+			"2": "communication",
+			"3": "attentiveness",
+			"4": "discipline",
+			"5": "respect"
+		}
+	}
+}
